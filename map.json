@@ -970,7 +970,7 @@
         {
          "columns":8,
          "firstgid":7079,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/Celiana-grounds-walls-square.png",
+         "image":"\/src\/assets\/Celiana-grounds-walls-square.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -983,7 +983,7 @@
         {
          "columns":40,
          "firstgid":7207,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/walls_floors_edited.png",
+         "image":"\/src\/assets\/walls_floors_edited.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -996,7 +996,7 @@
         {
          "columns":8,
          "firstgid":9527,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/Celiana-grounds-2.png",
+         "image":"\/src\/assets\/Celiana-grounds-2.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -1009,7 +1009,7 @@
         {
          "columns":24,
          "firstgid":9535,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/Celiana-walls-1.png",
+         "image":"\/src\/assets\/Celiana-walls-1.png",
          "imageheight":384,
          "imagewidth":768,
          "margin":0,
@@ -1035,7 +1035,7 @@
         {
          "columns":16,
          "firstgid":9923,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/Celiana-interiors-3.png",
+         "image":"\/src\/assets\/Celiana-interiors-3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1048,7 +1048,7 @@
         {
          "columns":11,
          "firstgid":10179,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/tileset1.png",
+         "image":"\/src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -1067,7 +1067,7 @@
         {
          "columns":11,
          "firstgid":10300,
-         "image":"..\/..\/..\/..\/..\/..\/..\/Downloads\/veepee-warehouse\/src\/assets\/tileset1-repositioning.png",
+         "image":"\/src\/assets\/tileset1-repositioning.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
