@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#bar"
                 }],
          "type":"tilelayer",
          "visible":true,

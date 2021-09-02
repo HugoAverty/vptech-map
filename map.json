@@ -325,7 +325,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bar.json#bar"
+                 "value":"bar.json"
                 }],
          "type":"tilelayer",
          "visible":true,
