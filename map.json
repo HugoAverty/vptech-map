@@ -325,7 +325,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bar.json"
+                 "value":"\/@\/veepee\/brief-virtual-office\/warehouse-bar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -659,7 +659,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Jacques-Olivier Farcy  \n https:\/\/mapwa.net\/static\/"
+         "value":"Credits: WorkAdventure \n https:\/\/workadventu.re"
         }, 
         {
          "name":"mapDescription",
@@ -670,6 +670,11 @@
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Warehouse"
         }, 
         {
          "name":"script",
