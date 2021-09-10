@@ -73,6 +73,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"JitsiMeetingMain"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
                 }],
          "type":"tilelayer",
          "visible":true,
