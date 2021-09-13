@@ -75,9 +75,9 @@
                  "value":"JitsiMeetingMain"
                 }, 
                 {
-                 "name":"jitsiRoomAdminTag",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"admin"
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
