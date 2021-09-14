@@ -73,6 +73,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"JitsiMeetingMain"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
